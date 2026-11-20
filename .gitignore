@@ -1,0 +1,21 @@
+# Configuração com segredos (Wi-Fi, senha do painel) — NUNCA versionar
+firmware/config.py
+
+# Blocklist gerada (grande e recriável com ferramentas/gerar_lista.py)
+firmware/bloqueio.bin
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Sistema operacional / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Firmware MicroPython baixado
+*.uf2

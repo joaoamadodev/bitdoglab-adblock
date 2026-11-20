@@ -1,0 +1,14 @@
+# Sites bloqueados SÓ durante o Modo Foco (vale para os subdomínios também).
+# Edite à vontade: um domínio por linha, # é comentário.
+# Depois de editar, reenvie com: mpremote cp foco.txt :  e  mpremote reset
+instagram.com
+facebook.com
+tiktok.com
+kwai.com
+twitter.com
+x.com
+youtube.com
+reddit.com
+twitch.tv
+pinterest.com
+netflix.com

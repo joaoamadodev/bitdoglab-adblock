@@ -1,0 +1,4 @@
+# Domínios extras para bloquear (vale para os subdomínios também).
+# Um por linha. Não precisa regenerar o bloqueio.bin para usar este arquivo.
+# Exemplo:
+# anuncios.exemplo.com

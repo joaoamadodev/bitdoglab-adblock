@@ -1,0 +1,4 @@
+# Domínios que NUNCA devem ser bloqueados (vale para os subdomínios também).
+# Um por linha. Edite e copie de novo para a placa se algum site quebrar.
+# Exemplo:
+# exemplo.com.br
